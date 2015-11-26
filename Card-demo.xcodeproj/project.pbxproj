@@ -15,8 +15,6 @@
 		6B465A821BFF10DD00FFD870 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6B465A801BFF10DD00FFD870 /* LaunchScreen.storyboard */; };
 		6B465A8B1BFF120800FFD870 /* CardView.m in Sources */ = {isa = PBXBuildFile; fileRef = 6B465A8A1BFF120800FFD870 /* CardView.m */; };
 		6B465A8D1BFF121B00FFD870 /* CardView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 6B465A8C1BFF121B00FFD870 /* CardView.xib */; };
-		6B465A921BFF136500FFD870 /* 2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6B465A901BFF136500FFD870 /* 2.jpg */; };
-		6B465A931BFF136500FFD870 /* 1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6B465A911BFF136500FFD870 /* 1.jpg */; };
 		6B465A9E1BFF17B700FFD870 /* wangpai-souchang-icon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 6B465A941BFF17B700FFD870 /* wangpai-souchang-icon@2x.png */; };
 		6B465A9F1BFF17B700FFD870 /* wangpai-souchang-icon@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 6B465A951BFF17B700FFD870 /* wangpai-souchang-icon@3x.png */; };
 		6B465AA01BFF17B700FFD870 /* wangpai-souchangpre-icon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 6B465A961BFF17B700FFD870 /* wangpai-souchangpre-icon@2x.png */; };
@@ -27,6 +25,8 @@
 		6B465AA51BFF17B700FFD870 /* wangpai-zanpre-icon@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 6B465A9B1BFF17B700FFD870 /* wangpai-zanpre-icon@3x.png */; };
 		6B465AA61BFF17B700FFD870 /* wangpai-zhezhao@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 6B465A9C1BFF17B700FFD870 /* wangpai-zhezhao@2x.png */; };
 		6B465AA71BFF17B700FFD870 /* wangpai-zhezhao@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 6B465A9D1BFF17B700FFD870 /* wangpai-zhezhao@3x.png */; };
+		6B72C12E1C02FC8200066B3C /* 2.png in Resources */ = {isa = PBXBuildFile; fileRef = 6B72C12C1C02FC8200066B3C /* 2.png */; };
+		6B72C12F1C02FC8200066B3C /* 1.png in Resources */ = {isa = PBXBuildFile; fileRef = 6B72C12D1C02FC8200066B3C /* 1.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -43,8 +43,6 @@
 		6B465A891BFF120800FFD870 /* CardView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CardView.h; sourceTree = "<group>"; };
 		6B465A8A1BFF120800FFD870 /* CardView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CardView.m; sourceTree = "<group>"; };
 		6B465A8C1BFF121B00FFD870 /* CardView.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = CardView.xib; sourceTree = "<group>"; };
-		6B465A901BFF136500FFD870 /* 2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = 2.jpg; path = ../../../Desktop/2.jpg; sourceTree = "<group>"; };
-		6B465A911BFF136500FFD870 /* 1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = 1.jpg; path = ../../../Desktop/1.jpg; sourceTree = "<group>"; };
 		6B465A941BFF17B700FFD870 /* wangpai-souchang-icon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "wangpai-souchang-icon@2x.png"; sourceTree = "<group>"; };
 		6B465A951BFF17B700FFD870 /* wangpai-souchang-icon@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "wangpai-souchang-icon@3x.png"; sourceTree = "<group>"; };
 		6B465A961BFF17B700FFD870 /* wangpai-souchangpre-icon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "wangpai-souchangpre-icon@2x.png"; sourceTree = "<group>"; };
@@ -55,6 +53,8 @@
 		6B465A9B1BFF17B700FFD870 /* wangpai-zanpre-icon@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "wangpai-zanpre-icon@3x.png"; sourceTree = "<group>"; };
 		6B465A9C1BFF17B700FFD870 /* wangpai-zhezhao@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "wangpai-zhezhao@2x.png"; sourceTree = "<group>"; };
 		6B465A9D1BFF17B700FFD870 /* wangpai-zhezhao@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "wangpai-zhezhao@3x.png"; sourceTree = "<group>"; };
+		6B72C12C1C02FC8200066B3C /* 2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 2.png; sourceTree = "<group>"; };
+		6B72C12D1C02FC8200066B3C /* 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 1.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -87,8 +87,8 @@
 		6B465A711BFF10DD00FFD870 /* Card-demo */ = {
 			isa = PBXGroup;
 			children = (
-				6B465A901BFF136500FFD870 /* 2.jpg */,
-				6B465A911BFF136500FFD870 /* 1.jpg */,
+				6B72C12C1C02FC8200066B3C /* 2.png */,
+				6B72C12D1C02FC8200066B3C /* 1.png */,
 				6B465A941BFF17B700FFD870 /* wangpai-souchang-icon@2x.png */,
 				6B465A951BFF17B700FFD870 /* wangpai-souchang-icon@3x.png */,
 				6B465A961BFF17B700FFD870 /* wangpai-souchangpre-icon@2x.png */,
@@ -189,11 +189,11 @@
 				6B465AA21BFF17B700FFD870 /* wangpai-zan-icon@2x.png in Resources */,
 				6B465AA51BFF17B700FFD870 /* wangpai-zanpre-icon@3x.png in Resources */,
 				6B465A9E1BFF17B700FFD870 /* wangpai-souchang-icon@2x.png in Resources */,
+				6B72C12F1C02FC8200066B3C /* 1.png in Resources */,
 				6B465AA61BFF17B700FFD870 /* wangpai-zhezhao@2x.png in Resources */,
-				6B465A921BFF136500FFD870 /* 2.jpg in Resources */,
 				6B465AA41BFF17B700FFD870 /* wangpai-zanpre-icon@2x.png in Resources */,
 				6B465A9F1BFF17B700FFD870 /* wangpai-souchang-icon@3x.png in Resources */,
-				6B465A931BFF136500FFD870 /* 1.jpg in Resources */,
+				6B72C12E1C02FC8200066B3C /* 2.png in Resources */,
 				6B465A8D1BFF121B00FFD870 /* CardView.xib in Resources */,
 				6B465A7D1BFF10DD00FFD870 /* Main.storyboard in Resources */,
 			);
@@ -356,6 +356,7 @@
 				6B465A881BFF10DD00FFD870 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

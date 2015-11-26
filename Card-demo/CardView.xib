@@ -11,7 +11,7 @@
             <rect key="frame" x="0.0" y="0.0" width="212" height="300"/>
             <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
             <subviews>
-                <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="2.jpg" translatesAutoresizingMaskIntoConstraints="NO" id="DhZ-oi-549" userLabel="Image View">
+                <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="1.png" translatesAutoresizingMaskIntoConstraints="NO" id="DhZ-oi-549" userLabel="Image View">
                     <rect key="frame" x="0.0" y="0.0" width="212" height="300"/>
                     <animations/>
                 </imageView>
@@ -57,7 +57,7 @@
                     <color key="textColor" red="0.95953315881326351" green="0.95953315881326351" blue="0.95953315881326351" alpha="1" colorSpace="calibratedRGB"/>
                     <nil key="highlightedColor"/>
                 </label>
-                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="对风说爱你" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="IWv-h3-osl">
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="花千骨" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="IWv-h3-osl">
                     <rect key="frame" x="8" y="250" width="91" height="21"/>
                     <animations/>
                     <constraints>
@@ -158,7 +158,7 @@
         </view>
     </objects>
     <resources>
-        <image name="2.jpg" width="500" height="499"/>
+        <image name="1.png" width="121" height="161"/>
         <image name="wangpai-souchang-icon.png" width="19" height="19"/>
         <image name="wangpai-zan-icon.png" width="19" height="19"/>
         <image name="wangpai-zhezhao.png" width="90" height="90"/>
